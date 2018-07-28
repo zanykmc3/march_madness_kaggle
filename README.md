@@ -6,7 +6,9 @@ create_elo_dataframe.py - gathers ELO data for men's and women's teams</br>
 create_pom_dataframe.py - gathers Pomeroy rankings for men's and women's teams</br>
 create_training_dataframe.py - creates input data for ML algorithms</br>
 
-<h4>Prediction Scripts:</h4>
-basic_logistic_regression_mens.py - logistic regression for men's games
-basic_logistic_regression_womens.py - logistic regression for women's games
-dnn_classifier.py - deep neural net using tensorflow, used for both men's and women's games
+<h4>Prediction Scripts:</h4></br>
+basic_logistic_regression_mens.py - logistic regression for men's games</br>
+basic_logistic_regression_womens.py - logistic regression for women's games</br>
+dnn_classifier.py - deep neural net using tensorflow, used for both men's and women's games</br>
+
+<a href="https://www.kaggle.com/seanzmclean">Kaggle account link.</a>
