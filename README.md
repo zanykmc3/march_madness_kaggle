@@ -10,5 +10,5 @@ create_training_dataframe.py - creates input data for ML algorithms</br>
 basic_logistic_regression_mens.py - logistic regression for men's games</br>
 basic_logistic_regression_womens.py - logistic regression for women's games</br>
 dnn_classifier.py - deep neural net using tensorflow, used for both men's and women's games</br>
-
-<a href="https://www.kaggle.com/seanzmclean">Kaggle account link.</a>
+</br>
+<a href="https://www.kaggle.com/seanzmclean" target="_blank">Kaggle account link.</a>
